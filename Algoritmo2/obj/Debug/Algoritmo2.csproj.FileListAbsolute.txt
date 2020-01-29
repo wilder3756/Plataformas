@@ -1,0 +1,6 @@
+C:\Users\wilde\source\repos\Algoritmo2\bin\Debug\Algoritmo2.exe.config
+C:\Users\wilde\source\repos\Algoritmo2\bin\Debug\Algoritmo2.exe
+C:\Users\wilde\source\repos\Algoritmo2\bin\Debug\Algoritmo2.pdb
+C:\Users\wilde\source\repos\Algoritmo2\obj\Debug\Algoritmo2.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\Algoritmo2\obj\Debug\Algoritmo2.exe
+C:\Users\wilde\source\repos\Algoritmo2\obj\Debug\Algoritmo2.pdb
