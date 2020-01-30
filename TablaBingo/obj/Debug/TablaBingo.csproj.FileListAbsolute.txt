@@ -1,0 +1,9 @@
+C:\Users\wilde\source\repos\TablaBingo\bin\Debug\TablaBingo.exe.config
+C:\Users\wilde\source\repos\TablaBingo\bin\Debug\TablaBingo.exe
+C:\Users\wilde\source\repos\TablaBingo\bin\Debug\TablaBingo.pdb
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.Properties.Resources.resources
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.csproj.GenerateResource.cache
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.exe
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.pdb
+C:\Users\wilde\source\repos\TablaBingo\obj\Debug\TablaBingo.Principal.resources
