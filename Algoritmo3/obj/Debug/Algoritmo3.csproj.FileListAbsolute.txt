@@ -1,0 +1,6 @@
+C:\Users\wilde\source\repos\Algoritmo3\obj\Debug\Algoritmo3.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\Algoritmo3\bin\Debug\Algoritmo3.exe.config
+C:\Users\wilde\source\repos\Algoritmo3\bin\Debug\Algoritmo3.exe
+C:\Users\wilde\source\repos\Algoritmo3\bin\Debug\Algoritmo3.pdb
+C:\Users\wilde\source\repos\Algoritmo3\obj\Debug\Algoritmo3.exe
+C:\Users\wilde\source\repos\Algoritmo3\obj\Debug\Algoritmo3.pdb
