@@ -1,0 +1,6 @@
+C:\Users\wilde\source\repos\Algoritmo4\bin\Debug\Algoritmo4.exe.config
+C:\Users\wilde\source\repos\Algoritmo4\bin\Debug\Algoritmo4.exe
+C:\Users\wilde\source\repos\Algoritmo4\bin\Debug\Algoritmo4.pdb
+C:\Users\wilde\source\repos\Algoritmo4\obj\Debug\Algoritmo4.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\Algoritmo4\obj\Debug\Algoritmo4.exe
+C:\Users\wilde\source\repos\Algoritmo4\obj\Debug\Algoritmo4.pdb
