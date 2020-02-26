@@ -1,0 +1,6 @@
+C:\Users\wilde\source\repos\Algoritmo5\bin\Debug\Algoritmo5.exe.config
+C:\Users\wilde\source\repos\Algoritmo5\bin\Debug\Algoritmo5.exe
+C:\Users\wilde\source\repos\Algoritmo5\bin\Debug\Algoritmo5.pdb
+C:\Users\wilde\source\repos\Algoritmo5\obj\Debug\Algoritmo5.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\Algoritmo5\obj\Debug\Algoritmo5.exe
+C:\Users\wilde\source\repos\Algoritmo5\obj\Debug\Algoritmo5.pdb
