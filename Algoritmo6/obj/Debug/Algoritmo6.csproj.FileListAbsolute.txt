@@ -1,0 +1,6 @@
+C:\Users\wilde\source\repos\Algoritmo6\obj\Debug\Algoritmo6.csprojAssemblyReference.cache
+C:\Users\wilde\source\repos\Algoritmo6\bin\Debug\Algoritmo6.exe.config
+C:\Users\wilde\source\repos\Algoritmo6\bin\Debug\Algoritmo6.exe
+C:\Users\wilde\source\repos\Algoritmo6\bin\Debug\Algoritmo6.pdb
+C:\Users\wilde\source\repos\Algoritmo6\obj\Debug\Algoritmo6.exe
+C:\Users\wilde\source\repos\Algoritmo6\obj\Debug\Algoritmo6.pdb
