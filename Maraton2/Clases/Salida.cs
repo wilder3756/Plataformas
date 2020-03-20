@@ -15,10 +15,10 @@ namespace Maraton2.Clases
         {
         }
 
-        public Salida(string nombre, double flujo)
+        public Salida(string nombre)
         {
             this.nombre = nombre ?? throw new ArgumentNullException(nameof(nombre));
-            this.flujo = flujo;
+            this.flujo = 0;
         }
 
         public string Nombre { get => nombre; set => nombre = value; }

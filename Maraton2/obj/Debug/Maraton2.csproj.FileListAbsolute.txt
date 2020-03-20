@@ -1,0 +1,6 @@
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\bin\Debug\Maraton2.exe.config
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\bin\Debug\Maraton2.exe
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\bin\Debug\Maraton2.pdb
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\obj\Debug\Maraton2.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\obj\Debug\Maraton2.exe
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Maraton2\obj\Debug\Maraton2.pdb

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Maraton2.Clases
 {
-    class ConfiguracionValvulas
+    public class ConfiguracionValvulas
     {
         public static bool derecha = true;
         public static bool izquierda = false;
 
-        private bool[] configuracionValculas;
+        private bool[] configuracionValvulas;
 
         public ConfiguracionValvulas()
         {
@@ -19,13 +19,30 @@ namespace Maraton2.Clases
 
         public ConfiguracionValvulas(string configuracion)
         {
+            configuracion = configuracion.ToUpper();
             string[] aux = configuracion.Split(' ');
-            configuracionValculas = new bool[aux.Length];
+            configuracionValvulas = new bool[aux.Length];
             for(int i = 0; i < aux.Length; i++)
             {
-                if(aux[i].com)
+                if (aux[i].CompareTo("L") == 0) configuracionValvulas[i] = izquierda;
+                if (aux[i].CompareTo("R") == 0) configuracionValvulas[i] = izquierda;
+                else throw new Exception("las configuraciones de la valvulas no son validas");
             }
             
+        }
+
+        public bool[] ConfiguracionValculas { get => configuracionValvulas; set => configuracionValvulas = value; }
+
+        public string imprimir()
+        {
+            string salida = "";
+            foreach(bool i in configuracionValvulas)
+            {
+                if (i == derecha) salida += "R";
+                else salida += "L";
+            }
+            salida += "\n";
+            return salida;
         }
     }
 }
