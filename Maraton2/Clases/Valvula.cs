@@ -26,6 +26,8 @@ namespace Maraton2.Clases
             this.Nombre = nombre ?? throw new ArgumentNullException(nameof(nombre));
             this.Configuracion = configuracion;
             this.Flujo = 0;
+            this.confDerecha= confDerecha;
+            this.confIzquierda= confIzquierda;
         }
 
         public string Nombre { get => nombre; set => nombre = value; }
