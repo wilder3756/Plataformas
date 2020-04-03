@@ -1,0 +1,11 @@
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.exe
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.deps.json
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.runtimeconfig.json
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.runtimeconfig.dev.json
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.dll
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\bin\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.pdb
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\obj\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\obj\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\obj\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.AssemblyInfo.cs
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\obj\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.dll
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo7_Fibonacci\obj\Debug\netcoreapp3.0\Algoritmo7_Fibonacci.pdb
