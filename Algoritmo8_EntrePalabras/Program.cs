@@ -59,7 +59,7 @@ namespace Algoritmo8_EntrePalabras
                     if (cadenaInicio[i] == cadenaIntermedia[i] && cadenaIntermedia[i] == cadenaIntermedia[i]) continue;
                     else if (cadenaIntermedia[i] < cadenaFinal[i] && cadenaIntermedia[i] > cadenaInicio[i]) return true;
                     else if (cadenaIntermedia[i] < cadenaFinal[i] && cadenaFinal[i] < cadenaInicio[i]) return true;
-                    else if (cadenaIntermedia[i] < cadenaFinal[i] && cadenaFinal[i] < cadenaInicio[i]) return true;
+                    else if (cadenaIntermedia[i] > cadenaInicio[i] && cadenaFinal[i] < cadenaInicio[i]) return true;
                     else return false;
 
                 }
