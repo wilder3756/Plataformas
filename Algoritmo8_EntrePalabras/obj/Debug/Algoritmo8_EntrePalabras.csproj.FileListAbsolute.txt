@@ -1,0 +1,6 @@
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\bin\Debug\Algoritmo8_EntrePalabras.exe.config
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\bin\Debug\Algoritmo8_EntrePalabras.exe
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\bin\Debug\Algoritmo8_EntrePalabras.pdb
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\obj\Debug\Algoritmo8_EntrePalabras.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\obj\Debug\Algoritmo8_EntrePalabras.exe
+C:\Users\wilde\OneDrive - UPB\5° Semestre\Plataformas de Programacion Empresarial\Plataformas\Algoritmo8_EntrePalabras\obj\Debug\Algoritmo8_EntrePalabras.pdb
