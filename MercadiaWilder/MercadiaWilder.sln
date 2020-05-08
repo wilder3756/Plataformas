@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadiaWilder", "MercadiaWilder\MercadiaWilder.csproj", "{6F876536-6677-4C3C-906F-F9FEACD1EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F876536-6677-4C3C-906F-F9FEACD1EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F876536-6677-4C3C-906F-F9FEACD1EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F876536-6677-4C3C-906F-F9FEACD1EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F876536-6677-4C3C-906F-F9FEACD1EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DFAA5DE-980F-4B78-A52A-A80FDC3100F7}
+	EndGlobalSection
+EndGlobal
